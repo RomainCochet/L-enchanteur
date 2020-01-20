@@ -1,1 +1,1 @@
-echo "ta tronche"; 
+Boolean

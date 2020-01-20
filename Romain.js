@@ -1,1 +1,1 @@
-echo "t'as tronche"; 
+echo "ta tronche"; 
